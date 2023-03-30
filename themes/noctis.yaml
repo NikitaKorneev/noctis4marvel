@@ -1,5 +1,5 @@
 noctis:  
-
+  lovelace-background: "center / auto repeat url('/local/MarvelLogo.png')"
   # Fonts
   primary-font-family: 'Raleway,sans-serif'
   paper-font-common-base_-_font-family: "var(--primary-font-family)"
